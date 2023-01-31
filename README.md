@@ -1,5 +1,18 @@
 # SOM-for-Clustering-Iris-Dataset
 
+# Task
+
+▸Aplicar um modelo neural não supervisionado
+
+▸Avaliar os padrões detectados em cada conjunto:
+
+▸Clusters / outliers, etc.
+
+▸Avaliar a homogeneidade dos agrupamentos
+
+▸Variar os parâmetros do modelo (grid, taxas, número
+de neurônios, etc.)
+
 # References:
 
 * https://github.com/JustGlowing/minisom
